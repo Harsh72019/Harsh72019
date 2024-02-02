@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Harsh Bali and I am a software/android/web developer form India.<br>🔭 I’m currently working with a startup to create an online learning platform<br>🌱 Learning flutter<br>⚡ Fun fact : Even if I am unaware of the tech used I can get your work done!
+Some serious shit going on!
 
 
 ## 🌐 Socials:
