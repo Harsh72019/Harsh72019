@@ -1,5 +1,6 @@
 # 💫 About Me:
 Some serious shit going on! ☠️
+<img src="https://t.bkit.co/w_65e84fca12777.gif" />
 
 
 ## 🌐 Socials:
