@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 💻 **Backend Developer** with production-level experience
-- ⚙️ Expert in **Node.js, MongoDB, Redis, Kafka, Socket.IO**
-- 📈 Actively preparing for **Product-Based Companies (MAANG-level)**
-- 🧠 Deep focus on **DSA + System Design**
-- 🔥 Built scalable backend systems and real-time applications
+- 💻 **Backend Developer** with production-level experience  
+- ⚙️ Strong in **Node.js, MongoDB, Redis, Kafka, Socket.IO**  
+- 📈 Actively preparing for **MAANG-level Product Companies**  
+- 🧠 Focused on **DSA + Advanced System Design**  
+- 🔥 Passionate about building scalable, real-time, and low-latency systems  
 
 ---
 
@@ -36,13 +36,13 @@
 ### 🛠️ Tech Stack
 
 #### 👨‍💻 Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-#### ⚙️ Dev & Infrastructure
+#### ⚙️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -56,12 +56,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh72019&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Harsh72019&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Harsh72019&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh72019&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh72019&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harsh72019&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 ---
@@ -76,34 +76,34 @@
 
 ### 📌 Featured Projects
 
-**🔥 Real-Time Trading Simulator**
-- FIFO-based order matching engine
-- Live P&L updates via WebSockets
-- Integrated with Alpaca & Polygon APIs
+**🔥 Real-Time Trading Simulator**  
+- FIFO order matching engine  
+- Live P&L updates via WebSockets  
+- Integrated Alpaca & Polygon APIs  
 
-**⚡ PiSync Backend**
-- Offline-first sync engine with conflict resolution
-- Redis-based queue + concurrency control
-- Highly optimized MongoDB queries
+**⚡ PiSync Backend**  
+- Offline-first sync with conflict resolution  
+- Redis queue + concurrency control  
+- Optimized MongoDB queries  
 
-**🚀 Deployment Automation Tool**
-- One-click remote deployment
-- Automated build + run on remote servers
+**🚀 Deployment Automation Tool**  
+- One-click remote deployment  
+- Automated build & run on remote servers  
 
 ---
 
 ### 📚 Currently Learning
 
-- Advanced System Design (Scalability, Load Balancing, Caching strategies)
-- Low Latency Systems
-- Competitive Programming (LeetCode + Codeforces)
+- Advanced System Design (Scalability, Caching, Load Balancing)  
+- Low-Latency Systems  
+- Competitive Programming (LeetCode + Codeforces)  
 
 ---
 
 ### 🧠 Developer Mindset
 
 ```cpp
-while(alive) {
+while (alive) {
     eat();
     code();
     debug();
