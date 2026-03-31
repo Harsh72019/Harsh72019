@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Bali</h1>
-<h3 align="center">Backend Developer | System Design Enthusiast | Aspiring SDE @ Product-Based Companies</h3>
+<h3 align="center">Backend Developer | System Design Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+MongoDB+%7C+Redis;Building+Scalable+Systems;Preparing+for+MAANG+%F0%9F%9A%80" />
